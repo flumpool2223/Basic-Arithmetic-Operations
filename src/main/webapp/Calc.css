@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+header {
+	text-align:center;
+	padding: 10px;
+    border: 1px solid #333;
+    margin: 0 0 -1px;
+}
+
+
+.clear {
+	text-align:right;
+	color: white;
+	background-color:#1e90ff;
+	border-color: white;
+	display: inline-block;   
+    border-radius: 8px;  
+    padding: 0.25em 1em; 
+    text-decoration: none;   
+    text-align:right;
+    float: left;
+}
+
+
+
+.calc {    
+    text-align:left;
+	color: white;
+	background-color:#9acd32;
+	border-color: white;
+	display: inline-block;   
+    border-radius: 8px;  
+    padding: 0.25em 1em; 
+    text-decoration: none;
+    float: right;
+}
+
+div {
+  	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+  	height: 72px;
+	width:  800px;
+ 	margin: 0 0 -1px;
+
+}
+
+form {
+	text-align:center;
+	padding: 125px 0 0;
+    border: 1px solid #333;
+}
+
+.item1 {
+	display: inline-block;
+  	text-align:center;
+  	
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: -70 0 -1px;
+}
+
+.item2 {
+	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: 25 0 -1px;
+}
+
+.item3 {
+	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: 45 0 -1px;
+}
+
+.item4 {
+	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: 45 0 -1px;
+}
+
+.item5 {
+	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: 45 0 -1px;
+}
+
+.botton1 {
+	display: inline-block;
+  	text-align:center;
+  	padding: 10px;
+ 	border: 1px solid #333;
+	width:  800px;
+ 	height: 25px;
+ 	margin: 0 0 -1px;
+ 	position: relative;
+	bottom: 300px;
+	left:50px;
+	right: 50px;
+}
+
+h1 {
+	float: left;
+	font-size: 10px;
+	padding: 15 15 15 10px;
+    border-right: 1px solid;
+    margin: -10 30 0 0px;
+}
+
+h2 {
+	float: left;
+	font-size: 10px;
+	padding: 15 15 15 10px;
+	border-right: 1px solid;
+    margin: -10 30 0 0px;
+}
+
+h3 {
+	float: left;
+	font-size: 10px;
+	padding: 15 15 15 10px;
+    border-right: 1px solid;
+    margin: -10 30 0 0px;
+}
+
+h4 {
+	float: left;
+	font-size: 10px;
+	padding: 15 15 15 10px;
+    border-right: 1px solid;
+    margin: -10 30 0 0px;
+}
+
+h5 {
+	float: left;
+	font-size: 10px;
+	padding: 15 15 15 10px;
+    border-right: 1px solid;
+    margin: -10 30 0 0px;
+}
