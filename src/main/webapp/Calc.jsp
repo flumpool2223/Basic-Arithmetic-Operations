@@ -18,9 +18,9 @@
                 });
 
                 // 計算ボタンがクリックされたときの処理
-                var operand1 = $('#operand1').val();
-                var operator = $('#operator').val();
-                var operand2 = $('#operand2').val();
+                const operand1 = $('#operand1').val();
+                const operator = $('#operator').val();
+                const operand2 = $('#operand2').val();
 
                 //非同期通信で画面遷移せずに結果を表示
                 $.ajax({
